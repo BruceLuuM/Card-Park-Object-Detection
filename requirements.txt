@@ -1,0 +1,5 @@
+opencv-python==4.5.5.62
+matplotlib==3.6.0
+numpy==1.23.3
+easyocr==1.6.2
+Pillow==9.5.0
